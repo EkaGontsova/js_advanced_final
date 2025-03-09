@@ -1,3 +1,3 @@
 module.exports = {
-    ignores: ['dist/*'], 
+  ignores: ["dist/*", "coverage/*", "docs/*"],
 };
