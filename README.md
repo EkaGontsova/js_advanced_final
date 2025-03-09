@@ -579,4 +579,4 @@ GitHub Pages создаст веб-сайт по адресу: https://<ваш �
 4. Сделайте стратегию соперника более интересной/непредсказуемой
 
 
-![CI](https://github.com/EkaGontsova/ahj_advanced_final/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/k4yd0b5j13twrstt?svg=true)](https://ci.appveyor.com/project/EkaGontsova/js_advanced_final)
